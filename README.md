@@ -11,3 +11,5 @@
 
 目前进度：
 * [1_监督学习_概要](http://morty1122.vawav.cn/index.php/archives/31)
+* [2.1_监督学习_感知机](http://morty1122.vawav.cn/index.php/archives/34)
+* [2.2_监督学习_梯度下降法](http://morty1122.vawav.cn/index.php/archives/37)
